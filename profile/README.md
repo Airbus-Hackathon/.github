@@ -10,8 +10,8 @@ Forts de notre passion commune pour l'innovation et notre expertise complémenta
 
 ### Organisation des répertoires github
 
-- [Entrainement des modèles]() - Un répertoire dédié a l'entraînement des modèles.
-- [Evaluation des modèles]() - Un répertoire dédié à l'évaluation des modèle
+- [Entrainement des modèles](https://github.com/Airbus-Hackathon/train) - Un répertoire dédié a l'entraînement des modèles.
+- [Evaluation des modèles](https://github.com/Airbus-Hackathon/test_repository) - Un répertoire dédié à l'évaluation des modèle
 - [Mise en oeuvre des modèles 1/2](https://github.com/Airbus-Hackathon/legal-summarizer-microsoft-office-addin) - Un répertoire dédié à l'Add in microsoft
 - [Mise en oeuvre des modèles 2/2](https://github.com/Airbus-Hackathon/ai-api-bart-fintuned) - Un répertoire dédié à l'API autour du modèle d'IA
 
